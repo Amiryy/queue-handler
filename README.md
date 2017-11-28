@@ -40,7 +40,7 @@
 
 ## Getting Started
 ### Clone
-  ```git clone https://github.com/Amiryy/QueueHandler.git```
+  ```git clone https://github.com/Amiryy/queue-handler.git```
 
 ## Usage
 ### Import
