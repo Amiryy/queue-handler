@@ -76,4 +76,4 @@ Please read [CONTRIBUTING.md](https://gist.github.com/Amiryy/5fd07e4c54f846ea578
 * **Amiry** - *Initial work* - [Amiryy](https://github.com/amiryy)
 
 ## Thanks
- - [El-Matella](https://stackoverflow.com/users/4547701/el-matella) - A kind Stack Overflow user who helped me with reaching this solution in my own use case.
+ - [Hammerbot](https://stackoverflow.com/users/4547701/hammerbot) - A kind Stack Overflow user who helped me with reaching this solution in my own use case.
